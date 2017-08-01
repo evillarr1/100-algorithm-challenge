@@ -1,1 +1,2 @@
-require("./Array")
+require("./Array");
+require("./String");
